@@ -8,9 +8,6 @@
 [cursor-auto-free-doc.vercel.app](https://cursor-auto-free-doc.vercel.app)
 
 
-## 公众号 回复 1 获取 qq 群
-
-![公众号](./screen/qrcode_for_gh_c985615b5f2b_258.jpg)
 
 ## 英文名字集
 https://github.com/toniprada/usa-names-dataset
